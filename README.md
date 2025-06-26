@@ -45,7 +45,7 @@ credit_card_fraud_detection/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/fraud-detection-streamlit.git
+git clone https://github.com/komalsali04/Fraud_detection_streamlit.git
 cd fraud-detection-streamlit
 
 ##Create and Activate Virtual Environment##
