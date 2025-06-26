@@ -27,10 +27,15 @@ This is a lightweight web application built using **Streamlit** that predicts fr
 
 ## 📁 Project Structure
 credit_card_fraud_detection/
+
 ├── app.py # Streamlit app code
+
 ├── fraud_model.pkl # Trained logistic regression model
+
 ├── requirements.txt # Python dependencies
+
 ├── sample_input.csv # Example input format
+
 └── README.md # Project overview
 
 
@@ -43,35 +48,46 @@ credit_card_fraud_detection/
 git clone https://github.com/your-username/fraud-detection-streamlit.git
 cd fraud-detection-streamlit
 
-***Create and Activate Virtual Environment***
+##Create and Activate Virtual Environment##
 python -m venv venv
 .\venv\Scripts\activate     # Use source venv/bin/activate on Mac/Linux
 
-***Install Dependencies***
+##Install Dependencies##
 pip install -r requirements.txt
 
-***Run the app***
+##Run the app##
 streamlit run app.py
 
-***📥File upload format***
+ ```
+📥File upload format
+
 Make sure your uploaded CSV file matches the input format expected by the model. You can test with the included:
 
 sample_input.csv
 
+
+
 🎯 Model Details
-Trained using Logistic Regression on a balanced subset (492 fraud & 492 normal)
+- Trained using Logistic Regression on a balanced subset (492 fraud & 492 normal)
 
-Preprocessing includes feature scaling and class balancing
+- Preprocessing includes feature scaling and class balancing
 
-.pkl model loaded at runtime for prediction
+- .pkl model loaded at runtime for prediction
+
+
 
 💡 Future Improvements
-Add SHAP-based explanations for predictions
+- Add SHAP-based explanations for predictions
 
-Allow raw dataset uploads and apply preprocessing on-the-fly
+- Allow raw dataset uploads and apply preprocessing on-the-fly
 
-Host as a Flask app with authentication
+- Host as a Flask app with authentication
 
-🧑‍💻 Author
-Komal Sali
-AI/ML Engineering Student | Data Enthusiast | [LinkedIn](https://www.linkedin.com/in/komal-sali-a819b6257/)
+
+---
+### 🧑‍💻 Author
+**Komal Sali**
+
+AI/ML Engineering Student \| Data Enthusiast \| [LinkedIn](https://www.linkedin.com/in/komal-sali-a819b6257/)
+
+---
