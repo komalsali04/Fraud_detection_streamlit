@@ -89,6 +89,6 @@ sample_input.csv
 ### 🧑‍💻 Author
 **Komal Sali**
 
-AI/ML Engineering Student \| Data Enthusiast \| [LinkedIn](https://www.linkedin.com/in/komal-sali-a819b6257/)
+AI/ML Engineering Student \| ML Enthusiast \| [LinkedIn](https://www.linkedin.com/in/komal-sali-a819b6257/)
 
 ---
