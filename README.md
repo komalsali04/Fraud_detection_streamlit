@@ -6,6 +6,8 @@ This is a lightweight web application built using **Streamlit** that predicts fr
 
 ---
 
+Dataset Link: (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 ## 📌 Features
 
 - Upload a CSV file of transactions
@@ -62,7 +64,7 @@ streamlit run app.py
 
 Make sure your uploaded CSV file matches the input format expected by the model. You can test with the included:
 
-sample_input.csv(https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+sample_input.csv
 
 
 
