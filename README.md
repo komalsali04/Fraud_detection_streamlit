@@ -11,7 +11,6 @@ This is a lightweight web application built using **Streamlit** that predicts fr
 - Upload a CSV file of transactions
 - Predict fraudulent vs. legitimate transactions
 - Download the prediction results as CSV
-- SHAP integration for model explainability (coming soon)
 - Built with Streamlit for easy browser-based use
 
 ---
