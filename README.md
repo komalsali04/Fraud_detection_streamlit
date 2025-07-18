@@ -62,7 +62,7 @@ streamlit run app.py
 
 Make sure your uploaded CSV file matches the input format expected by the model. You can test with the included:
 
-sample_input.csv
+sample_input.csv(https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 
 
